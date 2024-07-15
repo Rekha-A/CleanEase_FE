@@ -54,10 +54,10 @@ const Contact = () => {
       <div className="row mt-5 animate__animated animate__fadeIn">
         <div className="col-md-6">
           <h3 style={{ color: 'red' }}>Contact Information</h3>
-          <p ><strong>Email:</strong> cleanease@gmail.com</p>
-          <p><strong>Phone:</strong> 1-800-227-1031</p>
-          <p><strong>Orlando Office:</strong><br />1816 Bimini Drive,<br />Orlando, FL 32806</p>
-          <p><strong>Naples Office:</strong><br />1725 Marsh Run,<br />Naples, FL 34109</p>
+          <p ><strong>Email:</strong> cleanservices@gmail.com</p>
+          <p><strong>Phone:</strong>  084538 58578</p>
+          <p><strong>Bengaluru Office:</strong><br />1816 Bimini Drive,<br />Bengaluru, FL 32806</p>
+          <p><strong>Chennai Office:</strong><br />1725 Marsh Run,<br />Chennai, FL 34109</p>
         </div>
         <div className="col-md-6">
           <Formik
