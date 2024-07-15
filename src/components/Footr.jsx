@@ -14,8 +14,8 @@ const Footer = () => {
           <div className="col-md-6">
             <h3>Contact</h3>
             <p>Phone: 416-428-9409</p>
-            <p>Email: <a href="mailto:contact@cleanease.ca" className="text-dark">contact@cleanease.ca</a></p>
-            <p>Website: <a href="https://www.cleanease.ca" className="text-dark">www.cleanease.ca</a></p>
+            <p>Email: <a href="mailto:cleanservices@gmail.com" className="text-dark">contact@cleanease.ca</a></p>
+            <p>Website: <a href="https://www.bengalorecleanease.com" className="text-dark">www.bengalorecleanease.com</a></p>
           </div>
         </div>
         <div className="row mt-4">
