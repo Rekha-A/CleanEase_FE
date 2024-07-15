@@ -55,7 +55,7 @@ const Signup = () => {
   };
 
   return (
-    <section className="vh-100" style={{ backgroundImage: `url(https://www.istockphoto.com/photo/modern-office-door-gm517751222-89661921?utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fphotos%2Fa-large-plant-in-a-large-room-with-lots-of-windows-ffjwHrafblk&utm_medium=affiliate&utm_source=unsplash&utm_term=huangpu%3A%3A%3A)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <section className="vh-100" style={{ backgroundImage: `url(https://media.istockphoto.com/id/517751222/photo/modern-office-door.jpg?s=1024x1024&w=is&k=20&c=K-Mt6x_bi-kcsZ1CsFphdE0b-72rSkJjxdU46ymbdIQ=)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <ToastContainer />
       <div className="container h-100">
         <div className="row d-flex justify-content-center align-items-center h-100">
