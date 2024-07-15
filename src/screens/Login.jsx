@@ -56,7 +56,7 @@ const Login = () => {
   
   
   return (
-    <section className="vh-100 d-flex justify-content-center align-items-center" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <section className="vh-100 d-flex justify-content-center align-items-center" style={{ backgroundImage: `url(https://www.istockphoto.com/photo/modern-office-door-gm517751222-89661921?utm_campaign=adp_photos_sponsored&utm_content=https%3A%2F%2Funsplash.com%2Fphotos%2Fa-large-plant-in-a-large-room-with-lots-of-windows-ffjwHrafblk&utm_medium=affiliate&utm_source=unsplash&utm_term=huangpu%3A%3A%3A)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-md-8 col-lg-6 col-xl-5">
