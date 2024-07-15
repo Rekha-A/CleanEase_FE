@@ -128,7 +128,7 @@ const HeaderContent = () => {
           <div className="col-lg-6 col-xl-5">
             <div className="image-container">
               <div className="">
-                <img className="img-fluid-0 my-3" src="https://t4.ftcdn.net/jpg/05/78/61/03/360_F_578610304_3AxU7UsNrKyxj0IlgukFpLgX3I9EftX4.jpg" alt="" />
+                <img className="img-fluid-0 my-3" src="https://magicboxpackers.com/wp-content/uploads/2023/10/shutterstock_657213997.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -148,7 +148,8 @@ const HeaderContent = () => {
         <Modal.Header closeButton>
           <Modal.Title>Get  Quote</Modal.Title>
           <ContactInfoWrapper>
-            <p>You can reach us at <strong>416-428-9409</strong> or <strong>contact@cleanease.ca</strong></p>
+            <p>You can reach us at <strong>084538 58578</strong> or <strong>cleanservices@gmail.com
+            </strong></p>
           </ContactInfoWrapper>
         </Modal.Header>
         <Modal.Body>
