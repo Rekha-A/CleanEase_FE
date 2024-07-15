@@ -95,8 +95,10 @@ const RatingAndReview = () => {
     };
 
     return (
-        <Container>
+        <Container style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, 
+                    backgroundSize: 'cover', backgroundPosition: 'center' }}>
             <h2 className="mt-4 text-primary">Rating & Review</h2>
+            
             <Row className="justify-content-center">
                 <Col md={8}>
                     <Form onSubmit={handleSubmit}>
