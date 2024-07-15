@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="col-md-6">
             <h3>Contact</h3>
             <p>Phone: 084538 58578</p>
-           <p>Email: <a href="mailto:contact@cleanease.ca" className="text-dark">contact@cleanease.ca</a></p>
+           <p>Email: <a href="mailto: cleanease@gmail.com className="text-dark"> cleanease@gmail.com</a></p>
             <p>Website: <a href="https://www.cleanease.ca" className="text-dark">www.cleanease.ca</a></p>
           </div>
         </div>
