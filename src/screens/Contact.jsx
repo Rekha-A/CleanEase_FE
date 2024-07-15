@@ -49,15 +49,20 @@ const Contact = () => {
   return (
     <div className="container mt-5" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <h1 className="text-center animate__animated animate__slideInDown" style={{ color: 'darkgreen' }}>CONTACT</h1>
-      <p className="text-center animate__animated animate__fadeIn" style={{ color: 'blue' }}>Cleanease has been dedicated to delivering top-notch cleaning services for over 16 years. Our team takes pride in providing meticulous cleaning solutions for both residential and commercial properties. We frequently meet clients in person and are passionate about sharing our expertise at educational events on maintaining clean and healthy environments.</p>
+      <p className="text-center animate__animated animate__fadeIn" style={{ color: 'blue' }}>
+We have been servicing the market for over 7 years. We trained the whole team with the standards we came up with for these many years.
+All Cleaning Services has a long history of providing expert cleaning services.
+        We take pride in offering our customers high-quality residential cleaning services in Bangalore and Chennai. 
+        Our goal is to offer you the best residential cleaning service for a reasonable cost.
+        We work hard to achieve excellence and always satisfy our customers with our reliable and excellent house cleaning services.</p>
 
       <div className="row mt-5 animate__animated animate__fadeIn">
         <div className="col-md-6">
           <h3 style={{ color: 'red' }}>Contact Information</h3>
           <p ><strong>Email:</strong> cleanservices@gmail.com</p>
           <p><strong>Phone:</strong>  084538 58578</p>
-          <p><strong>Bengaluru Office:</strong><br />1816 Bimini Drive,<br />Bengaluru, FL 32806</p>
-          <p><strong>Chennai Office:</strong><br />1725 Marsh Run,<br />Chennai, FL 34109</p>
+          <p><strong>Bengaluru Office:</strong><br /> Clean-ease solutions<br />#187,1st block,<br/> Nagarabhavi 2nd stage<br/>Bengaluru, 560072</p>
+          <p><strong>Chennai Office:</strong><br />Clean-ease Solutions, <br/> #22, 1st Cross, <br/> Kanagam rd,Chennai, <br/>Tamil Nadu 600113 </p>
         </div>
         <div className="col-md-6">
           <Formik
@@ -141,7 +146,9 @@ const Contact = () => {
 
       <div className="row mt-5">
         <div className="col">
-          <p className="text-center animate__animated animate__fadeIn">"Experience matters in cleanliness. At Cleanease, we prioritize responsiveness and value your questions, ensuring tailored solutions for pristine spaces."
+          <p className="text-center animate__animated animate__fadeIn">
+                   "Professional Cleaning Service in Bangalore
+            We are Equipped with modern techniques & results in efficient and faster cleaning solutions"
           </p>
         </div>
       </div>
