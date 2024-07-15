@@ -7,14 +7,14 @@ const CleaningServicesAbout = () => {
       <div className="container" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
         <div className="row gy-3 gy-md-4 gy-lg-0 align-items-lg-center">
           <div className="col-12 col-lg-6 col-xl-5 animate__animated animate__fadeInLeft">
-            <img className="img-fluid rounded mx-3" loading="lazy" src="https://t4.ftcdn.net/jpg/05/78/61/03/360_F_578610304_3AxU7UsNrKyxj0IlgukFpLgX3I9EftX4.jpg" alt="Cleaning Services" />
+            <img className="img-fluid rounded mx-3" loading="lazy" src="https://allcleaningservices.in/wp-content/uploads/2020/12/office.jpg" alt="Cleaning Services" />
           </div>
           <div className="col-12 col-lg-6 col-xl-7 animate__animated animate__fadeInRight">
             <div className="row justify-content-xl-center">
               <div className="col-12 col-xl-11">
                 <h2 className="h1 mb-3 animate__animated animate__fadeInUp my-2">Who Are We?</h2>
-                <p className="lead fs-4 text-secondary mb-3 animate__animated animate__fadeInUp">Welcome to CleanEase, your premier provider of professional cleaning services.</p>
-                <p className="mb-5 animate__animated animate__fadeInUp">At CleanEase, we are committed to delivering exceptional cleaning solutions for both residential and commercial properties. Our team of experienced professionals is dedicated to ensuring pristine and hygienic environments for our clients.</p>
+                <p className="lead fs-4 text-secondary mb-3 animate__animated animate__fadeInUp">Welcome to CleanEase, Explore the brilliance of your marble like never before – experience our exceptional Marble Polishing Services. .</p>
+                <p className="mb-5 animate__animated animate__fadeInUp">At CleanEase, We offer flexible cleaning options to fit your schedule and budget, so you can enjoy a clean home without breaking the bank.</p>
                 <div className="row gy-4 gy-md-0 gx-xxl-5X animate__animated animate__fadeInUp">
                   <div className="col-12 col-md-6">
                     <div className="d-flex shadow p-3 mb-5 bg-body rounded">
