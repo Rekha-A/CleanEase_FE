@@ -14,7 +14,7 @@ const Profile = () => {
   
 
   return (
-    <Container className="mt-5" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <Container className="mt-5" style={{ backgroundImage: `url(https://media.istockphoto.com/id/517751222/photo/modern-office-door.jpg?s=1024x1024&w=is&k=20&c=K-Mt6x_bi-kcsZ1CsFphdE0b-72rSkJjxdU46ymbdIQ=)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <Row>
         <Col>
           <Tabs>
