@@ -59,7 +59,7 @@ All Cleaning Services has a long history of providing expert cleaning services.
       <div className="row mt-5 animate__animated animate__fadeIn">
         <div className="col-md-6">
           <h3 style={{ color: 'red' }}>Contact Information</h3>
-          <p ><strong>Email:</strong> cleanservices@gmail.com</p>
+          <p ><strong>Email:</strong> cleanease@gmail.com</p>
           <p><strong>Phone:</strong>  084538 58578</p>
           <p><strong>Bengaluru Office:</strong><br /> Clean-ease solutions<br />#187,1st block,<br/> Nagarabhavi 2nd stage<br/>Bengaluru, 560072</p>
           <p><strong>Chennai Office:</strong><br />Clean-ease Solutions, <br/> #22, 1st Cross, <br/> Kanagam rd,Chennai, <br/>Tamil Nadu 600113 </p>
