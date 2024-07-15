@@ -40,7 +40,7 @@ const LandingPage = () => {
         <Row>
           <Col lg={6}>
             <img
-              src="https://cdn.dribbble.com/users/6498639/screenshots/15141150/media/b306a0b1906db326d48d3f6921698a65.gif"
+              src="https://clean4u.in/wp-content/uploads/2021/09/BG-Mob.jpg"
               alt="CleanEase"
               style={{
                 borderRadius: '10px', 
