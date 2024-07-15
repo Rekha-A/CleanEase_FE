@@ -150,7 +150,7 @@ const Bookingscreen = () => {
   }
 
   return (
-    <div className="container mt-5" style={{ backgroundImage: `url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?t=st=1715597294~exp=1715600894~hmac=d19587c2a68906da2c84f39be30fe5fe21cec0adc37814b8f0c6c8afc7562952&w=900)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <div className="container mt-5" style={{ backgroundImage: `url(https://media.istockphoto.com/id/517751222/photo/modern-office-door.jpg?s=2048x2048&w=is&k=20&c=Y5Vsg7Fa4HYu_Y5pLRXKjmRoWLJmbnrkXDJ2rHDvBys=)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <h2 className="text-center mb-4">Booking Details</h2>
       <div className="row">
         <div className="col-md-6">
