@@ -147,7 +147,7 @@ All Cleaning Services has a long history of providing expert cleaning services.
       <div className="row mt-5">
         <div className="col">
           <p className="text-center animate__animated animate__fadeIn">
-                   "Professional Cleaning Service in Bangalore
+                   "Professional Cleaning Service in Bangalore and Chennai,
             We are Equipped with modern techniques & results in efficient and faster cleaning solutions"
           </p>
         </div>
