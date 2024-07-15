@@ -97,7 +97,7 @@ const HeaderContent = () => {
     // Handle form submission here
     
     // Example: Submitting the form data to an API endpoint using axios
-    axios.post('https://capstone-be-den4.onrender.com/api/quote/quote', formData,{
+    axios.post('https://capstone-be-1.onrender.com/api/quote/quote', formData,{
       headers: {
           Authorization: `Bearer ${user.token}`, // Include the token in the request headers
       },
@@ -148,7 +148,7 @@ const HeaderContent = () => {
         <Modal.Header closeButton>
           <Modal.Title>Get  Quote</Modal.Title>
           <ContactInfoWrapper>
-            <p>You can reach us at <strong>084538 58578</strong> or <strong>cleanservices@gmail.com
+            <p>You can reach us at <strong>084538 58578</strong> or <strong>contact@cleanease.ca
             </strong></p>
           </ContactInfoWrapper>
         </Modal.Header>
