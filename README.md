@@ -1,3 +1,2 @@
 
 CleanEase
-Introduction
