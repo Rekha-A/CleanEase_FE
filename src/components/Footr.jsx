@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6 mb-4 mb-md-0">
             <h3>About CleanEase</h3>
-            <p>Homecare Solutions provides world-class Home cleaning services with a flexible pricing option. We have a group of certified Home cleaners in Bangalore and Chennai. Our main aim is to ensure your convenience.</p>
+            <p>Clean Ease provides world-class Home cleaning services with a flexible pricing option. We have a group of certified Home cleaners in Bangalore and Chennai. Our main aim is to ensure your convenience.</p>
           </div>
           <div className="col-md-6">
             <h3>Contact</h3>
